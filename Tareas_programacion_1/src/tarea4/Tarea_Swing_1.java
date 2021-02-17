@@ -18,7 +18,7 @@ class swing {
 
 	// Constructors
 
-	swing() {
+	public swing() {
 
 		frame();
 		panel1();
